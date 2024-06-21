@@ -1,0 +1,4 @@
+img {
+    filter: blur(2px);
+    transition: filter 0.5s ease;
+}
